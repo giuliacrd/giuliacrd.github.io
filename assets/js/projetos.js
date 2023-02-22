@@ -39,7 +39,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Atual site qual desenvolvi para apresentar a mim e a meus projetos.
+            Projeto atual em andamento para expor minhas atividades profissionais.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
