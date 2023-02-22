@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio - Matheus Presotto 💻</h1>
+<h1 align="center">Portfólio - Giulia Cardoso 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portfolio.png)
 
@@ -8,7 +8,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como DevOps Engineer.
+Projeto feito no intuito de me apresentar, como UX Designer.
 
 ## 🤯 O site é composto por:
 
