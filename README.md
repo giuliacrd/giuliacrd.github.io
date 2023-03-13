@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://avatars.githubusercontent.com/u/83012707?v=4" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/giuliacrd/giuliacrd.github.io</a>
+      Feito por <a href="https://github.com/giuliacrd</a>
     </td>
   </tr>
 </table>
