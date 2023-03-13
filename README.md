@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portfolio.png)
 
-<h4 align="center"><a href="https://matheuspresotto.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://https://giuliacrd.vercel.app">Confira o projeto aqui</a></h4>
 
 ---
 
@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://avatars.githubusercontent.com/u/83012707?v=4" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/presotto-m">Matheus Presotto.</a>
+      Feito por <a href="https://github.com/giuliacrd/giuliacrd.github.io</a>
     </td>
   </tr>
 </table>
