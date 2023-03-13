@@ -43,7 +43,7 @@ Neste projeto apliquei os seguintes pontos:
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/83012707?v=4" width="100px" />
+      <img src="[https://avatars.githubusercontent.com/u/83012707?v=4](https://avatars.githubusercontent.com/u/125934421?v=4)" width="100px" />
     </td>
     <td>
       Feito por <a href="https://github.com/giuliacrd</a>
