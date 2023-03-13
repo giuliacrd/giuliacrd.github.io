@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portfolio.png)
 
-<h4 align="center"><a href="https://https://giuliacrd.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://giuliacrd.vercel.app">Confira o projeto aqui</a></h4>
 
 ---
 
